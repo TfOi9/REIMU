@@ -2,13 +2,10 @@
 #include "fmtlib.h"
 #include <array>
 #include <cstdlib>
+#include <iostream>
 #include <source_location>
 #include <string>
 #include <string_view>
-
-namespace std {
-extern std::ostream cerr;
-} // namespace std
 
 namespace dark {
 

@@ -4,6 +4,7 @@
 #include <deque>
 #include <memory>
 #include <span>
+#include <string_view>
 #include <unordered_map>
 
 namespace dark {

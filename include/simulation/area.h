@@ -8,6 +8,7 @@
 #include "linker/layout.h"
 #include "utility/error.h"
 #include <algorithm>
+#include <bit>
 #include <vector>
 
 namespace dark {

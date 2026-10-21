@@ -1,8 +1,10 @@
 #pragma once
 #include "riscv/register.h"
 #include <cstddef>
+#include <iosfwd>
 #include <memory>
 #include <optional>
+#include <string>
 #include <string_view>
 
 namespace dark {
